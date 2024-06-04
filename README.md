@@ -27,7 +27,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[Apache License © Parna Roy Chowdhury](https://github.com/ParnaRoyChowdhury777/PCC-CS494-DAA/blob/c8fe11258d5daebde2afe6a2579a8bb012edea56/License)
+[Apache License © Parna Roy Chowdhury](https://github.com/ParnaRoyChowdhury777/PCC-CS494-DAA/blob/d2d377aadd1babd3d14d0346a91b20b6f79cf450/LICENSE)
 
 
 ## Where to contact ?
